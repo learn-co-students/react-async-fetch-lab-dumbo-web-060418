@@ -1,7 +1,7 @@
 # React Fetch Lab
 
 ## Objectives
-
+k
 - Practice creating a React component that utilizes `fetch` to display content
 
 ## Deliverables
